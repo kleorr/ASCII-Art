@@ -1,4 +1,4 @@
-# 🎨 ASCII Art Studio
+# 🎨 ASCII Art Generator
 
 A lightweight and user-friendly tool to convert your images into stunning ASCII art. Built with Python and CustomTkinter.
 
