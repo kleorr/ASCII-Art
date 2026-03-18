@@ -36,7 +36,7 @@ A powerful and fast desktop application to transform images and videos into styl
     ## 📦 Installation (for Developers)
 
 1. Clone the repository:
-```git clone https://github.com/your-username/ascii-studio-pro.git```
+```git clone https://github.com/kleorr/ASCII-Converter.git```
 
 2. Install dependencies:
 ```pip install customtkinter Pillow opencv-python moviepy proglog imageio imageio-ffmpeg```
